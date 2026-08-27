@@ -10906,6 +10906,7 @@ Systems below are ordered by **publication date**:
 | Superself | 2026-07-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/fxylabs/superself?style=social) | https://github.com/fxylabs/superself<br>https://superselfs.com/ |
 | Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
 | OpenViking | 2026-08-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | https://github.com/volcengine/OpenViking<br>https://openviking.ai/ |
+| Engraphy | 2026-08-22 | ![GitHub Repo stars](https://img.shields.io/github/stars/devon-clarkk/engraphy?style=social) | https://github.com/devon-clarkk/engraphy<br>https://engraphy.tech |
 | Verified Memory Vault | 2026-08-24 | ![GitHub Repo stars](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault?style=social) | https://github.com/secondbrainstarter/verified-memory-vault<br>https://secondbrainstarter.github.io/verified-memory-vault/ |
 
 ### 🎥 Multi-media resource
