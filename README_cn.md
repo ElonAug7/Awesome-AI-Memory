@@ -10866,6 +10866,7 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | Superself | 2026-07-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/fxylabs/superself?style=social) | https://github.com/fxylabs/superself<br>https://superselfs.com/ |
 | Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
 | OpenViking | 2026-08-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | https://github.com/volcengine/OpenViking<br>https://openviking.ai/ |
+| causal-memory | 2026-07-26 | ![GitHub Repo stars](https://img.shields.io/github/stars/JingxuanC/causal-memory?style=social) | https://github.com/JingxuanC/causal-memory<br>No official website |
 
 ### 🎥 多媒体资源
 
