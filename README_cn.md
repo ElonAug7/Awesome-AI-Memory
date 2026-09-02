@@ -10862,10 +10862,15 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | Data Olympus | 2026-07-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/knaisoma/data-olympus?style=social) | https://github.com/knaisoma/data-olympus<br>No official website |
 | LWC | 2026-07-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=social) | https://github.com/JanYork/llm-wiki-cli<br>https://janyork.github.io/llm-wiki-cli/ |
 | ViBo | 2026-08-13 | ![GitHub Repo stars](https://img.shields.io/github/stars/vnbochkarev-netizen/ViBo-memory) | [GitHub](https://github.com/vnbochkarev-netizen/ViBo-memory) · [Site](https://wwwvibo.com) — encrypted L1/L2/L3 memory, web search savings 99.6%, thread memory |
+| memory-shield | 2026-08-26 | ![GitHub Repo stars](https://img.shields.io/github/stars/vnbochkarev-netizen/memory-shield) | [GitHub](https://github.com/vnbochkarev-netizen/memory-shield) — snapshot agent memory before compaction, scan for prompt-injection/contradictions (quarantine, never deletes), diff-audit snapshots; stdlib-only, backend-agnostic |
 | Open Index | 2026-08-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/DrDroidLab/open-index?style=social) | https://github.com/DrDroidLab/open-index<br>No official website |
 | Superself | 2026-07-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/fxylabs/superself?style=social) | https://github.com/fxylabs/superself<br>https://superselfs.com/ |
 | Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
 | OpenViking | 2026-08-15 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) | https://github.com/volcengine/OpenViking<br>https://openviking.ai/ |
+| Engraphy | 2026-08-22 | ![GitHub Repo stars](https://img.shields.io/github/stars/devon-clarkk/engraphy?style=social) | https://github.com/devon-clarkk/engraphy<br>https://engraphy.tech |
+| chamnan | 2026-08-19 | ![GitHub Repo stars](https://img.shields.io/github/stars/ArcticFox2029/chamnan?style=social) | https://github.com/ArcticFox2029/chamnan |
+| Verified Memory Vault | 2026-08-24 | ![GitHub Repo stars](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault?style=social) | https://github.com/secondbrainstarter/verified-memory-vault<br>https://secondbrainstarter.github.io/verified-memory-vault/ |
+| kgai | 2026-08-03 | ![GitHub Repo stars](https://img.shields.io/github/stars/kgaidev/kgai?style=social) | https://github.com/kgaidev/kgai<br>https://kgai.dev/?ref=awesome-ai-memory |
 | causal-memory | 2026-07-26 | ![GitHub Repo stars](https://img.shields.io/github/stars/JingxuanC/causal-memory?style=social) | https://github.com/JingxuanC/causal-memory<br>No official website |
 
 ### 🎥 多媒体资源
