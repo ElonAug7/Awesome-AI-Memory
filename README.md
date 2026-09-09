@@ -10902,8 +10902,7 @@ Systems below are ordered by **publication date**:
 | Data Olympus | 2026-07-08 | ![GitHub Repo stars](https://img.shields.io/github/stars/knaisoma/data-olympus?style=social) | https://github.com/knaisoma/data-olympus<br>No official website |
 | LWC | 2026-07-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/JanYork/llm-wiki-cli?style=social) | https://github.com/JanYork/llm-wiki-cli<br>https://janyork.github.io/llm-wiki-cli/ |
 | ViBo | 2026-08-13 | ![GitHub Repo stars](https://img.shields.io/github/stars/vnbochkarev-netizen/ViBo-memory) |https://github.com/vnbochkarev-netizen/ViBo-memory<br>https://wwwvibo.com|
-| Mnemosyne | 2026-08-22 | ![GitHub Repo stars](https://img.shields.io/github/stars/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes?style=social) | https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes<br>No official website |
-| memory-shield | 2026-08-26 | ![GitHub Repo stars](https://img.shields.io/github/stars/vnbochkarev-netizen/memory-shield) |https://github.com/vnbochkarev-netizen/memory-shield<br>No official website|
+| memory-shield | 2026-08-26 | ![GitHub Repo stars](https://img.shields.io/github/stars/vnbochkarev-netizen/memory-shield) |https://github.com/vnbochkarev-netizen/memory-shield<br>https://wwwvibo.com/memory-shield|
 | Open Index | 2026-08-01 | ![GitHub Repo stars](https://img.shields.io/github/stars/DrDroidLab/open-index?style=social) | https://github.com/DrDroidLab/open-index<br>No official website |
 | Superself | 2026-07-23 | ![GitHub Repo stars](https://img.shields.io/github/stars/fxylabs/superself?style=social) | https://github.com/fxylabs/superself<br>https://superselfs.com/ |
 | Compartment | 2026-07-20 | ![GitHub Repo stars](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment?style=social) | https://github.com/MaxFreedomPollard/Compartment<br>No official website |
